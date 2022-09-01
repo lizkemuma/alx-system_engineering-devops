@@ -1,1 +1,1 @@
-my first readme
+my frst shell basics
